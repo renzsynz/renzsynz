@@ -3,7 +3,7 @@
 A front end developer, cyber security, and tech entusiast from Indonesia.
 
 - 🔭 I’m currently working on portfolio project with Tailwind CSS
-- 🌱 I’m currently learning Tailwind CSS
+- 🌱 I’m currently learning php and mysql
 - ⚡ Fun fact: i love researching about something i like
 
 # 📫 How to reach me:
