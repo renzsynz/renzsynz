@@ -1,6 +1,6 @@
 # Hi there, I'm Narendra👋
 
-A front end developer, cyber security, and tech entusiast from Indonesia.
+A 14 years old front end developer, cyber security, and tech entusiast from Indonesia.
 
 - 🔭 I’m currently working on portfolio project with Tailwind CSS
 - 🌱 I’m currently learning php and mysql
