@@ -1,6 +1,6 @@
 # Hi there, I'm Narendra👋
 
-A 14 years old front end developer, cyber security, and tech entusiast from Indonesia.
+A 15 years old front end developer, cyber security, and tech entusiast from Indonesia.
 
 - 🔭 I’m currently working on portfolio project with Next.JS
 - 🌱 I’m currently learning Next.js
